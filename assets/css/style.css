@@ -1,0 +1,38 @@
+html,
+body {
+    margin: 0px;
+    background-color: rgb(46, 151, 46);
+    color: white;
+    width: auto;
+}
+
+.titulo {
+    text-align: center;
+    font-family: serif;
+    background-color: rgb(14, 11, 11);
+    color: whitesmoke;
+    padding: 20px;
+    font-size: x-large;
+}
+
+.carta {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#Jugador-cartas,
+#Computador-cartas {
+    height: 240px;
+}
+
+#divBotones {
+    padding: 10px;
+    font-size: 120%;
+    font-family: sans-serif;
+}
+
+#jugadores {
+    font-family: sans-serif;
+}
